@@ -1,6 +1,6 @@
 # Name: Shreya Valaboju, sxv180047
 # Course/Section: CS 4395.001
-# Notes: Refer to file named "readme_portfolio1.txt" on instructions on how to run, extra notes, and analysis
+# Notes: Refer to file named "overview_portfolio1.txt" on instructions on how to run, extra notes, and analysis
 # Github Link: https://github.com/shreyavala/nlp_portfolio
 
 # import necessary libraries
