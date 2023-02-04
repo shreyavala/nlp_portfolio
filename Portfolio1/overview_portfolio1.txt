@@ -1,0 +1,40 @@
+Author: Shreya Valaboju
+Date: 1/31/2023
+
+OVERVIEW OF PORTFOLIO 1
+
+HOW TO EXECUTE:
+    * If running on Pycharm IDE:
+        - Edit Configurations and add relative path of input/data csv in the parameters
+    * If running on terminal/command line:
+        - Type in this format to execute python file: python main.py [insert relative path of data csv]
+        - Ex: python main.py data/data.csv
+
+DESCRIPTION:
+    This program reads in a csv containing information about employees, such as their name, id, and phone number.
+    The purpose of this program is to implement basic preprocessing functionality (as you would in NLP projects) and
+    gain familiarity with programming in python. Those preprocessing methods include capitalization and standardization of phone
+    numbers and ids to a specific format. If any field for an employee is invalid, preprocessing is done or the user is given
+    a chance to correct that field, and then their information finally saved into a dictionary. At the end, the dictionary
+    is fed into a pickle file. The pickle file is then read and each employee's information is printed.
+
+EXTRA NOTES/ASSUMPTIONS:
+    - input file is in the format of a csv with the fields (in-order): Last,First,Middle Initial,ID,Office phone
+    - first line of input file is the csv field names
+    - when the pickle file is generated at the end, a file named "emp_dict_file.p" will appear in your working directory. 
+    - ensure that the correct relative path to the data.csv/input file is provided. 
+
+Strengths/Weaknesses of Python for text processing:
+
+    I noticed that a strength python had was a lot of functionality for basic preprocessing steps, such as fixing case, 
+    using regex, and comparing strings/text. A weakness was that preprocessing text that originated from a csv
+    required extra steps to extract the text into 1 entire string. An easier method would require an additional 
+    module/library, such as pandas. Some more advanced preprocessing steps would require importing help or other
+    libraries, a downside to just soley relying on python's tools. 
+
+Lessons Learned/What was review:
+    I have experience programming in python, so I am mostly familiar with the concepts in this program. For instance, I got to
+    review classes/object oriented programming in python, specifically the syntax. Additionally, dictionaries and iterating through
+    them was something I got to have a refresher on as well. A new concept I learned was about pickle files.
+    I never used pickle files before, so I had to do a bit of research and look on the professor's class notes to understand this concept.
+
