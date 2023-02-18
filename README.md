@@ -27,7 +27,7 @@ The purpose of this program is to implement basic preprocessing functionality (a
 *[Data](Portfolio1/data/data.csv)*
 
 --------------------------------------------------------------------------------
-### Project 3: Word Guessing Game
+### Project 2: Word Guessing Game
 This program's purpose is to showcase some basic functionality of the popular NLP library, nltk. After 
 preprocessing a raw input text file, an interactive guessing game is implemented for a user to play. 
 Follow the readme for this project for instructions on how to play the guessing game and more information
