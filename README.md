@@ -15,8 +15,7 @@ A report that provides a brief overview of NLP and why I am interested in this f
 
 --------------------------------------------------------------------------------
 ### Project 1: NLP Preprocessing
-This program reads in a csv containing information about employees, such as their name, id, and phone number.
-The purpose of this program is to implement basic preprocessing functionality (as you would in NLP projects) and gain familiarity with programming in python. Those preprocessing methods include capitalization and standardization of phone numbers and ids to a specific format. If any field for an employee is invalid, preprocessing is done or the user is given a chance to correct that field, and then their information finally saved into a dictionary. At the end, the dictionary is fed into a pickle file. The pickle file is then read and each employee's information is printed.
+This program implements basic preprocessing to an input text file. The purpose of this project is to demonstrate common preprocessing techniques used in NLP projects, such as capitalization and standardization of phone numbers and ids to a specific format. Additionally, user input is used to correct invalid/incorrectly formatted text. File pickling is also showcased in this project. 
 
 *Here is the folder, [Portfolio 1](Portfolio1) containing the code, an overview document with execution instructions, and data used in this project*
 
@@ -41,3 +40,15 @@ in the links below.
 *[Code](Portfolio2/main.py)*
 
 *[Data](Portfolio2/anat19.txt)*
+
+--------------------------------------------------------------------------------
+### Project 3: Exploring WordNet
+WordNet is a powerful tool in NLP. The purpose of this notebook is to introduce WordNet using nltk. 
+The notebook covers concepts such as synsets, how nouns and verbs are organized, senti-synsets, collocations, and similairty metrics used in WordNet.
+
+*Here is the folder, [Portfolio 3](Portfolio3) containing the notebook and an overview document with execution instructions*
+
+
+*[Overview Document](Portfolio3/readme_portfolio3.txt)*
+
+*[Python Notebook](Portfolio3/portfolio3.ipynb)*
