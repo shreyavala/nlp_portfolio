@@ -52,3 +52,20 @@ The notebook covers concepts such as synsets, how nouns and verbs are organized,
 *[Overview Document](Portfolio3/readme_portfolio3.txt)*
 
 *[Python Notebook](Portfolio3/portfolio3.ipynb)*
+
+--------------------------------------------------------------------------------
+### Project 4: Ngrams Model
+This project constructs bigram and unigram dictionaries for 3 different languages, English, Italian, and French. Then, we calcuate probabilities for each language and compare against true labels with a test dataset.
+The purpose of this project is to gain experience creating ngrams from text, build a language model from ngrams, and reflect on the utility of ngram language models. 
+
+
+*Here is the folder, [Portfolio 4](Portfolio4) containing the code, the data used, a narrative, and a readme with execution instruction and description*
+
+
+*[Narrative](Portfolio4/portfolio4_cs4395.001_narrative.pdf)*
+
+*[Program 1](Portfolio4/program1.py)*
+
+*[Program 2](Portfolio4/program2.py)*
+
+*[Data](Portfolio4/data/)*
