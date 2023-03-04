@@ -70,10 +70,12 @@ The purpose of this project is to gain experience creating ngrams from text, bui
 
 *[Data](Portfolio4/data/)*
 
+*[Overview Document](Portfolio4/readme_portfolio4.txt)*
+
 --------------------------------------------------------------------------------
 ### Project 5: Sentence Parsing
 Sentence parsing helps understand parts of speech and syntactical structure, which is integral to NLP. 
 This document highlights the concepts related to sentence syntax, the 3 types of sentence parsing
 techniques: PSG, dependency, and SRL, and how to use sentence parsers. 
 
-*Read the document, [Sentence Parsing](Portfolio5/sentence_parsing_portfolio5.pdf)*
+*Read the document [Sentence Parsing](Portfolio5/sentence_parsing_portfolio5.pdf) here*
