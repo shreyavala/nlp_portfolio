@@ -78,4 +78,14 @@ Sentence parsing helps understand parts of speech and syntactical structure, whi
 This document highlights the concepts related to sentence syntax, the 3 types of sentence parsing
 techniques: PSG, dependency, and SRL, and how to use sentence parsers. 
 
-*Read the document [Sentence Parsing](Portfolio5/sentence_parsing_portfolio5.pdf) here*
+*Read the document [Sentence Parsing here](Portfolio5/sentence_parsing_portfolio5.pdf)*
+
+--------------------------------------------------------------------------------
+### Project 6: Web Crawler
+This project involves web scraping using beautifulsoup. It scrapes information about the players on the 
+Dallas Mavericks NBA team and stores the scraped data into a knowledge base that is going to be used to 
+develop a chatbot. 
+
+*Read the [Web Crawler report here](Portfolio6/web_crawler_report.pdf)*
+
+*[Code](Portfolio6/main.py)*
