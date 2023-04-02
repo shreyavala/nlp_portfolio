@@ -96,5 +96,6 @@ This project involves using machine learning to classify email messages as fraud
 phishing, or false positives. We test and analyze 3 algorithms: naive bayes, logistic regression, and a neural network for this multi-class classification problem. Text processing and vectorization techniques are also used in this project. 
 
 *[Notebook](Portfolio7/text_classification_cs4395.ipynb)*
+
 *[PDF](Portfolio7/text-classification-cs4395.pdf)*
 
