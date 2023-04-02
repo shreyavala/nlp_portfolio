@@ -89,3 +89,12 @@ develop a chatbot.
 *Read the [Web Crawler report here](Portfolio6/web_crawler_report.pdf)*
 
 *[Code](Portfolio6/main.py)*
+
+--------------------------------------------------------------------------------
+### Project 7: Text Classification
+This project involves using machine learning to classify email messages as fraud, commerical spam, 
+phishing, or false positives. We test and analyze 3 algorithms: naive bayes, logistic regression, and a neural network for this multi-class classification problem. Text processing and vectorization techniques are also used in this project. 
+
+*[Notebook](Portfolio7/text_classification_cs4395.ipynb)*
+*[PDF](Portfolio7/text-classification-cs4395.pdf)*
+
