@@ -99,3 +99,10 @@ phishing, or false positives. I tested and analyzed 3 algorithms: naive bayes, l
 
 *[PDF](Portfolio7/text-classification-cs4395.pdf)*
 
+--------------------------------------------------------------------------------
+### Project 8: ACL Paper Summary
+This report summarizes and discusses the importance of an academic research paper featured at the
+Long Paper Proceedings of the 2022 ACL (Association of Computational Linguistics) conference. 
+
+*Read the [report here](Portfolio8/acl_paper_summary.pdf)*
+
