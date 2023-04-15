@@ -106,3 +106,17 @@ Long Paper Proceedings of the 2022 ACL (Association of Computational Linguistics
 
 *Read the [report here](Portfolio8/acl_paper_summary.pdf)*
 
+--------------------------------------------------------------------------------
+### Project 9: Champ, a Dallas Mavericks Chatbot
+Created a chatbot, named "Champ" that answers questions from a user about the players on the Dallas Mavericks
+NBA team. It is a command line bot that leverages NLP techniques and is able to carry a conversation with 
+a user. Refer to the README for instructions on how to run and the report for sample dialog and analysis. 
+
+*Read the [readme](Portfolio9/readme.md)*
+
+*[Code](Portfolio9/chatbot.py)*
+
+*[Data](Portfolio9/data/)*
+
+*[Report](Portfolio9/chatbot_report.pdf)*
+
