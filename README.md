@@ -107,3 +107,14 @@ a user. Refer to the README for instructions on how to run and the report for sa
 
 *[Report](Portfolio9/chatbot_report.pdf)*
 
+--------------------------------------------------------------------------------
+### Project 10: Classifying Fraud and Spam Emails using Deep Learning
+This project involves using machine learning to classify email messages as fraud, commerical spam, 
+phishing, or false positives. I tested and analyzed 3 algorithms: simple sequential model, RNN, and a CNN for this multinomial classification problem. Text processing and vectorization techniques are also used in this project. 
+
+*[Notebook](Portfolio10/text_classification2_cs4395_sxv180047.ipynb)*
+
+*[PDF](Portfolio10/t-classification2-cs4395-sxv180047.pdf)*
+
+--------------------------------------------------------------------------------
+
