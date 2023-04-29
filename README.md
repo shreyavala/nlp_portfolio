@@ -16,7 +16,7 @@ A report that provides a brief overview of NLP and why I am interested in this f
 ### Project 1: NLP Preprocessing
 This program implements basic preprocessing to an input text file. The purpose of this project is to demonstrate common preprocessing techniques used in NLP projects, such as capitalization and standardization of phone numbers and ids to a specific format. Additionally, user input is used to correct invalid/incorrectly formatted text. File pickling is also showcased in this project. 
 
-*[Overview Document](Portfolio1/overview_portfolio1.txt)* | *[Code](Portfolio1/main.py)* | *[Data](Portfolio1/data/data.csv)*
+*[Overview Document](Portfolios/Portfolio1/overview_portfolio1.txt)* | *[Code](Portfolios/Portfolio1/main.py)* | *[Data](Portfolios/Portfolio1/data/data.csv)*
 
 --------------------------------------------------------------------------------
 ### Project 2: Word Guessing Game
