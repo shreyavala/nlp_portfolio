@@ -16,11 +16,7 @@ A report that provides a brief overview of NLP and why I am interested in this f
 ### Project 1: NLP Preprocessing
 This program implements basic preprocessing to an input text file. The purpose of this project is to demonstrate common preprocessing techniques used in NLP projects, such as capitalization and standardization of phone numbers and ids to a specific format. Additionally, user input is used to correct invalid/incorrectly formatted text. File pickling is also showcased in this project. 
 
-*[Overview Document](Portfolio1/overview_portfolio1.txt)*
-
-*[Code](Portfolio1/main.py)*
-
-*[Data](Portfolio1/data/data.csv)*
+*[Overview Document](Portfolio1/overview_portfolio1.txt)* | *[Code](Portfolio1/main.py)* | *[Data](Portfolio1/data/data.csv)*
 
 --------------------------------------------------------------------------------
 ### Project 2: Word Guessing Game
@@ -29,35 +25,21 @@ preprocessing a raw input text file, an interactive guessing game is implemented
 Follow the readme for this project for instructions on how to play the guessing game and more information
 in the links below. 
 
-*[Overview Document](Portfolio2/readme_portfolio2.txt)*
-
-*[Code](Portfolio2/main.py)*
-
-*[Data](Portfolio2/anat19.txt)*
+*[Overview Document](Portfolio2/readme_portfolio2.txt)* | *[Code](Portfolio2/main.py)* | *[Data](Portfolio2/anat19.txt)*
 
 --------------------------------------------------------------------------------
 ### Project 3: Exploring WordNet
 WordNet is a powerful tool in NLP. The purpose of this notebook is to introduce WordNet using nltk. 
 The notebook covers concepts such as synsets, how nouns and verbs are organized, senti-synsets, collocations, and similairty metrics used in WordNet.
 
-*[Overview Document](Portfolio3/readme_portfolio3.txt)*
-
-*[Python Notebook](Portfolio3/portfolio3.ipynb)*
+*[Overview Document](Portfolio3/readme_portfolio3.txt)* | *[Python Notebook](Portfolio3/portfolio3.ipynb)*
 
 --------------------------------------------------------------------------------
 ### Project 4: Ngrams Model
 This project constructs bigram and unigram dictionaries for 3 different languages, English, Italian, and French. Then, we calcuate probabilities for each language and compare against true labels with a test dataset.
 The purpose of this project is to gain experience creating ngrams from text, build a language model from ngrams, and reflect on the utility of ngram language models. 
 
-*[Narrative](Portfolio4/portfolio4_cs4395.001_narrative.pdf)*
-
-*[Program 1](Portfolio4/program1.py)*
-
-*[Program 2](Portfolio4/program2.py)*
-
-*[Data](Portfolio4/data/)*
-
-*[Overview Document](Portfolio4/readme_portfolio4.txt)*
+*[Narrative](Portfolio4/portfolio4_cs4395.001_narrative.pdf)* | *[Program 1](Portfolio4/program1.py)* | *[Program 2](Portfolio4/program2.py)* | *[Data](Portfolio4/data/)* | *[Overview Document](Portfolio4/readme_portfolio4.txt)*
 
 --------------------------------------------------------------------------------
 ### Project 5: Sentence Parsing
@@ -82,9 +64,7 @@ develop a chatbot.
 This project involves using machine learning to classify email messages as fraud, commerical spam, 
 phishing, or false positives. I tested and analyzed 3 algorithms: naive bayes, logistic regression, and a neural network for this multinomial classification problem. Text processing and vectorization techniques are also used in this project. 
 
-*[Notebook](Portfolio7/text_classification_cs4395.ipynb)*
-
-*[PDF](Portfolio7/text-classification-cs4395.pdf)*
+*[Notebook](Portfolio7/text_classification_cs4395.ipynb)* | *[PDF](Portfolio7/text-classification-cs4395.pdf)*
 
 --------------------------------------------------------------------------------
 ### Project 8: ACL Paper Summary
@@ -99,22 +79,14 @@ Created a chatbot, named "Champ" that answers questions from a user about the pl
 NBA team. It is a command line bot that leverages NLP techniques and is able to carry a conversation with 
 a user. Refer to the README for instructions on how to run and the report for sample dialog and analysis. 
 
-*[README](Portfolio9/readme.md)*
-
-*[Code](Portfolio9/chatbot.py)*
-
-*[Data](Portfolio9/data/)*
-
-*[Report](Portfolio9/chatbot_report.pdf)*
+*[README](Portfolio9/readme.md)* | *[Code](Portfolio9/chatbot.py)* | *[Data](Portfolio9/data/)* | *[Report](Portfolio9/chatbot_report.pdf)*
 
 --------------------------------------------------------------------------------
 ### Project 10: Classifying Fraud and Spam Emails using Deep Learning
 This project involves using machine learning to classify email messages as fraud, commerical spam, 
 phishing, or false positives. I tested and analyzed 3 algorithms: simple sequential model, RNN, and a CNN for this multinomial classification problem. Text processing and vectorization techniques are also used in this project. 
 
-*[Notebook](Portfolio10/text_classification2_cs4395_sxv180047.ipynb)*
-
-*[PDF](Portfolio10/t-classification2-cs4395-sxv180047.pdf)*
+*[Notebook](Portfolio10/text_classification2_cs4395_sxv180047.ipynb)*  |  *[PDF](Portfolio10/t-classification2-cs4395-sxv180047.pdf)*
 
 --------------------------------------------------------------------------------
 
