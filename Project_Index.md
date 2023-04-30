@@ -35,7 +35,9 @@ The notebook covers concepts such as synsets, how nouns and verbs are organized,
 This project constructs bigram and unigram dictionaries for 3 different languages, English, Italian, and French. Then, we calcuate probabilities for each language and compare against true labels with a test dataset.
 The purpose of this project is to gain experience creating ngrams from text, build a language model from ngrams, and reflect on the utility of ngram language models. 
 
-*[Narrative](Portfolios/Portfolio4/portfolio4_cs4395.001_narrative.pdf)* | *[Program 1](Portfolios/Portfolio4/program1.py)* | *[Program 2](Portfolios/Portfolio4/program2.py)* | *[Data](Portfolios/Portfolio4/data)* | *[Overview Document](Portfolios/Portfolio4/readme_portfolio4.txt)*
+*[Narrative](Portfolios/Portfolio4/portfolio4_cs4395.001_narrative.pdf)* | *[Program 1](Portfolios/Portfolio4/program1.py)* | *[Program 2](Portfolios/Portfolio4/program2.py)* | *[Overview Document](Portfolios/Portfolio4/readme_portfolio4.txt)*
+
+(Make sure to download the data folder as well under the Portfolio4 directory)
 
 --------------------------------------------------------------------------------
 ### **5. Sentence Parsing**
@@ -72,7 +74,9 @@ Created a chatbot, named "Champ" that answers questions from a user about the pl
 NBA team. It is a command line bot that leverages NLP techniques and is able to carry a conversation with 
 a user. Refer to the README for instructions on how to run and the report for sample dialog and analysis. 
 
-*[README](Portfolios/Portfolio9/readme.md)* | *[Code](Portfolios/Portfolio9/chatbot.py)* | *[Data](Portfolios/Portfolio9/data)* | *[Report](Portfolios/Portfolio9/chatbot_report.pdf)*
+*[README](Portfolios/Portfolio9/readme.md)* | *[Code](Portfolios/Portfolio9/chatbot.py)* | *[Report](Portfolios/Portfolio9/chatbot_report.pdf)*
+
+(Make sure to download the data folder as well under the Porfolio9 directory)
 
 --------------------------------------------------------------------------------
 ### **10. Classifying Fraud and Spam Emails using Deep Learning**
